@@ -1,4 +1,7 @@
 # Syntecxhub_Student_Registration_System
+
+<img width="870" height="523" alt="Screenshot 2026-07-07 113815" src="https://github.com/user-attachments/assets/0552eebc-a41a-4c01-a24c-40fa2377b516" />
+
 A console-based **Student Registration System** developed using **Java** and **JDBC** with **MySQL** database.  
 This project allows users to perform **CRUD operations** (Create, Read, Update, Delete) on student records.
 
